@@ -1,0 +1,64 @@
+{
+  "next_receipt_number": 7,
+  "settings": {
+    "register_name": "Kassza #01",
+    "language": "hu",
+    "touch_mode": true,
+    "cash_drawer_connected": true,
+    "scanner_connected": true,
+    "card_terminal_connected": false,
+    "scanner_mode": "CAMERA",
+    "scanner_port": "0 (Kamera #0)",
+    "terminal_mode": "SIM / AUTO",
+    "terminal_port": "COM3 / LAN",
+    "terminal_timeout": 15.0,
+    "custom_fee_name": "",
+    "custom_fee_amount": null
+  },
+  "products": [
+    {
+      "code": "T001",
+      "barcode": "5990001001",
+      "name": "Ásványvíz",
+      "icon": "💧",
+      "description": "Szénsavmentes 1.5L",
+      "price": 250,
+      "unit_qty": "6 pack",
+      "unit_price": 1350,
+      "image_path": null
+    },
+    {
+      "code": "T002",
+      "barcode": "5990001002",
+      "name": "Kenyér",
+      "icon": "🍞",
+      "description": "Fehér kenyér 1 kg",
+      "price": 690,
+      "unit_qty": null,
+      "unit_price": null,
+      "image_path": null
+    },
+    {
+      "code": "T003",
+      "barcode": "5990001003",
+      "name": "Kávé",
+      "icon": "☕",
+      "description": "Pörkölt szemes kávé",
+      "price": 3490,
+      "unit_qty": "250g",
+      "unit_price": 1190,
+      "image_path": null
+    },
+    {
+      "code": "T004",
+      "barcode": "5990001004",
+      "name": "Csokoládé",
+      "icon": "🍫",
+      "description": "Étcsokoládé tábla",
+      "price": 590,
+      "unit_qty": null,
+      "unit_price": null,
+      "image_path": null
+    }
+  ]
+}
